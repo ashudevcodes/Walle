@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "walle",
+    "userInterfaceStyle": "automatic",
     "slug": "walle",
     "version": "1.0.0",
     "orientation": "portrait",
